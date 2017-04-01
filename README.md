@@ -1,2 +1,2 @@
 # unity-number-wizard
-Basic unity game to learn how to leverage Unity UI
+Basic number guessing game to learn the basics of Unity 3D Edit
